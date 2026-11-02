@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-afk-bot-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Template Mineflayer para servidores que permitem bots AFK",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.39.0",
+    "dotenv": "^16.4.7"
+  }
+}
